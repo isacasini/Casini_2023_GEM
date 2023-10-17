@@ -1,5 +1,5 @@
 # Casini_GEM_2023
-Supplemental data sets (Data S1, S3-S7) for the article: Casini, I., McCubbin, T., Esquivel-Elizondo, S., Luque, G.G., Evseeva, D., Fink, C., Beblawy, S., Youngblut, N.D., Aristilde, L., Huson, D., Drager, A., Ley, R., Marcellin, E., Angenent, L.T., Molitor, B. 2023. An integrated systems-biology approach reveals differences in formate metabolism in the genus Methanothermobacter._ iScience_.
+Supplemental data sets (Data S1, S3-S7) for the article: Casini, I., McCubbin, T., Esquivel-Elizondo, S., Luque, G.G., Evseeva, D., Fink, C., Beblawy, S., Youngblut, N.D., Aristilde, L., Huson, D., Drager, A., Ley, R., Marcellin, E., Angenent, L.T., Molitor, B. 2023. An integrated systems-biology approach reveals differences in formate metabolism in the genus Methanothermobacter. *iScience*.
 
 Data S1: Contains the supplemental tables (Table S1-S17).
 - Table S1: Details on access to genome assembly information in NCBI.
